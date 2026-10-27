@@ -1,16 +1,15 @@
-## Hi there 👋
+# ハイザラクン (haizarakun)
 
-<!--
-**haizarakun/haizarakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Androidアプリ・Chrome拡張を個人開発しています。root / LSPosed まわりが得意分野です。
 
-Here are some ideas to get you started:
+## 公開プロジェクト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[PayPaySoundHook](https://github.com/haizarakun/PayPaySoundHook)**
+PayPay の決済完了音・チャット音を好きな音声に差し替える LSPosed モジュール
+
+**[chrome-update-notifier](https://github.com/haizarakun/chrome-update-notifier)**
+4週間周期のリリースを予測して Chrome の更新を通知する軽量拡張機能
+
+## 使っているもの
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
